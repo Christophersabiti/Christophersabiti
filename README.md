@@ -38,7 +38,7 @@ My goal is to leave a **lasting legacy in data-tech and agritech industries** th
 ## 🛠 Tech Stack
 - **Languages**: Python | SQL
 - **Data Tools**: Power BI | Excel | Google Sheets
-- **Product & Business**: Kyosk | Koltiva Agritech | Market Strategy
+- **Product & Business**: Kyosk | Hima Cement Ltd | Market Strategy
 - **Soft Skills**: Leadership | Business Development | Project Management
 
 ---
