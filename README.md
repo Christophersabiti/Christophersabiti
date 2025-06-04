@@ -44,6 +44,7 @@ My goal is to leave a **lasting legacy in data-tech and agritech industries** th
 ---
 
 ## 🌍 Let's Connect
+📞 **Mobile**: +256777293933 / +256700141525
 📧 **Email**: christophersabiti@gmail.com  
 🔗 **LinkedIn**: [Christopher Sabiti](https://www.linkedin.com/in/christophersabiti/)  
 📺 **YouTube**: [Sabtech Online](https://www.youtube.com/@SabtechOnline)  
